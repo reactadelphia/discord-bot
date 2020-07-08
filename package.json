@@ -1,0 +1,31 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A Node.JS lambda to post to the Reactadelphia Discord.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactadelphia/discord-bot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Twitch",
+    "Reactadelphia"
+  ],
+  "author": "Zac Davis <thatzacdavis@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reactadelphia/discord-bot/issues"
+  },
+  "homepage": "https://github.com/reactadelphia/discord-bot#readme"
+}
